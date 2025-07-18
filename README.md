@@ -54,5 +54,5 @@ También se incluye un análisis **geográfico adicional (opcional)** para mapea
 │
 ├── Challenge_Alura_Store_Cristian_Velasquez_Rios_(final).ipynb   # Notebook con análisis completo
 ├── README.md                                                      # Este archivo
-├── /img                                                           # Capturas opcionales de visualizaciones
-└── /data                                                          # Dataset consolidado (opcional)
+├── /img                                                           # Capturas de visualizaciones
+└── /data                                                          # Dataset original y consolidado
